@@ -1,0 +1,149 @@
+{
+  "boards": [
+    {
+      "name": "Plan de Marketing",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Por hacer",
+          "tasks": [
+            {
+              "title": "Planear lanzamiento en Product Hunt",
+              "description": "",
+              "status": "Por hacer",
+              "subtasks": [
+                {
+                  "title": "Encontrar cazador",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Reunir recursos",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Borrador de la página del producto",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Notificar a clientes",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Notificar a la red de contactos",
+                  "isCompleted": false
+                },
+                {
+                  "title": "¡Lanzamiento!",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Compartir en Show HN",
+              "description": "",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Borrador para la publicación en HN",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Obtener feedback y refinar",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Publicar publicación",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Escribir artículo de lanzamiento para múltiples canales",
+              "description": "",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Escribir artículo",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Publicar en LinkedIn",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Publicar en Indie Hackers",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Publicar en Medium",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "En progreso",
+          "tasks": []
+        },
+        {
+          "name": "Hecho",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Hoja de ruta",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Ahora",
+          "tasks": [
+            {
+              "title": "Lanzar versión uno",
+              "description": "",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Lanzamiento privado a lista de espera",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Lanzamiento público en PH, HN, etc.",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Revisar feedback inicial y planear próximos pasos para la hoja de ruta",
+              "description": "Más allá del lanzamiento inicial, mantendremos vacía la hoja de ruta inicial. Esta reunión nos ayudará a planear próximos pasos basados en comentarios reales de clientes.",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Entrevistar a 10 clientes",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Revisar puntos problemáticos comunes y sugerencias",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Definir próximos pasos para nuestra hoja de ruta",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Siguiente",
+          "tasks": []
+        },
+        {
+          "name": "Después",
+          "tasks": []
+        }
+      ]
+    }
+  ]
+}
